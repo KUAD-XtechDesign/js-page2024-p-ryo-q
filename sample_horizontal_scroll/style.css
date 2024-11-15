@@ -26,7 +26,7 @@ main{
   color: white;
 }
 .container h2{
-  font-size: 40px;
+  font-size: 20 px;
 }
 .container p{
   width: 100%;
@@ -95,7 +95,7 @@ main{
   background-color:teal;
 }
 .maroon{
-  background-color: maroon;
+  background-color: rgba(231, 97, 97, 0.745);
 }
 .olive{
   background-color: olive;
@@ -110,7 +110,7 @@ main{
 }
 .last-area h2{
   color: white;
-  font-size: 40px;
+  font-size: 20px;
 }
 .proxy{
   position: absolute;
